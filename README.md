@@ -1,2 +1,2 @@
-# PixelCubeC-
+# PixelCubeC++
 PixelCubeC++
